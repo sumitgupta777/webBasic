@@ -1,3 +1,4 @@
 adding contents to the file first.txt.
 git 
 git new
+hii i am adding some new features to it
